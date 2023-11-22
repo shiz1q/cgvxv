@@ -13,6 +13,10 @@ body {
   background: #000;
   color: #fff; }
 
+  .logotip{
+    width: 300px;
+    /* height: 100px; */
+  }
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
